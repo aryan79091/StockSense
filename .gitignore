@@ -1,0 +1,7 @@
+stock_data/
+processed_data/
+rl_models/
+metrics/
+__pycache__/
+*.pyc
+.DS_Store
